@@ -14,19 +14,12 @@ React와 Spring Boot를 활용한 유치원 ERP 시스템입니다.
 <img src="https://img.shields.io/badge/Zustand-8B5CF6?style=flat-square&logo=Zustand&logoColor=white"/>
 <img src="https://img.shields.io/badge/Styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=React-Hook-Form&logoColor=white"/>
-<img src="https://img.shields.io/badge/Yup-FF0080?style=flat-square&logo=Yup&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tiptap-9146FF?style=flat-square&logo=Tiptap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dayjs-EF4035?style=flat-square&logo=dayjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Calendar-FF6B6B?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Toastify-444?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Spinners-FF6D00?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=black"/>
-<img src="https://img.shields.io/badge/json--server-333?style=flat-square&logo=json&logoColor=white"/>
-<img src="https://img.shields.io/badge/dotenv-8DD6F9?style=flat-square&logo=dotenv&logoColor=black"/>
+
 
 
 `Back-end`
@@ -38,10 +31,8 @@ React와 Spring Boot를 활용한 유치원 ERP 시스템입니다.
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nurigo SDK-FF7F50?style=flat-square&logo=SMS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jsoup-258ADB?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON-Web-Tokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lombok-FFA500?style=flat-square&logo=Lombok&logoColor=white"/>
+
 
 
 `Communication`
