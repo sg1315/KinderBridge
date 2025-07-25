@@ -65,7 +65,7 @@ npm install
 npm start
 
 # 백엔드
-cd back
+cd back/kinder
 ./gradlew bootRun
 ```
 ## 주요 기능
