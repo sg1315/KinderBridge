@@ -88,5 +88,5 @@ cd back
 | 정형일 | 팀장 | aadsf1789@gmail.com |
 | 김승기 | DB관리 | tropicana1235@gmail.comm |
 | 양동민 | 일정관리 | didehdals321@naver.com |
-| 박지민 | 형상관 | jimin0817@naver.com |
+| 박지민 | 형상관리 | jimin0817@naver.com |
 | 정의철 | 이슈관리 | euicheol99@gmail.com |
