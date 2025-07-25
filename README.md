@@ -5,8 +5,8 @@ React와 Spring Boot를 활용한 유치원 ERP 시스템입니다.
 - 개발 기간: 2025-05-26 ~ 2023-07-18
 - 서비스 링크: (배포 시 추가)
 - 본 프로젝트의 구조를 더 자세히 알고 싶다면?
-  - [백엔드 README](./BACK.md)
-  - [프론트엔드 README](./FRONT.md)
+  - [백엔드 README](./back/README.md)
+  - [프론트엔드 README](./front/README.md)
 
 ## 기술 스택
 `Front-End` 
