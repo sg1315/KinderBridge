@@ -31,4 +31,8 @@ cd back
 | GET    | /api/user/me     | 내 정보 조회   |
 
 ## 환경 변수
-- `application.yml`에서 DB 및 JWT 시크릿 키 설정 
+- `application.yml`에서 DB 및 JWT 시크릿 키 설정
+- AWS S3 버킷 및 자격 증명 정보 설정 (이미지 업로드 등에서 사용)
+- 문자 인증을 위한 Solapi API 키 설정
+- 공공 API를 통한 공휴일 정보 연동을 위한 인증키 설정
+- 파일 업로드 및 서버 인코딩 관련 설정 포함 (UTF-8, 최대 파일 용량 등)
