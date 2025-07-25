@@ -66,7 +66,7 @@ npm start
 # 백엔드
 cd back
 ./gradlew bootRun
-
+```
 ## 주요 기능
 - 회원가입 및 로그인 (JWT 기반)
 - 교사 건강 관리 지원
