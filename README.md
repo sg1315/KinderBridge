@@ -37,34 +37,37 @@ React와 Spring Boot를 활용한 유치원 ERP 시스템입니다.
 
 ## 설치 및 실행 방법
 ```bash
-git clone https://github.com/myuser/mytodoapp.git
-cd mytodoapp
+git clone https://github.com/sg1315/KinderBridge.git
+cd KinderBridge 
 
 # 프론트
-cd frontend
+cd front
 npm install
 npm start
 
 # 백엔드
-cd backend
+cd back
 ./gradlew bootRun
 
 ## 주요 기능
 - 회원가입 및 로그인 (JWT 기반)
-- 할일관리
-- 일정관리
+- 교사 건강 관리 지원
+- 아동 정보 관리
+- 아동 생활 및 활동 기록
+- 게시판과 채팅을 통한 학부모와의 소통
+- 일정 관리 ,출석 체크등의 교사 업무 지원
 
 ## 부가 기능
-- 소셜 로그인 (카카오)
-- 반응형 웹UI
-- 전역 style 정의하여 라이트/다크 모드 구현
+- 전화번호 본인인증 (coolsms)
+- React Calander를 이용한 교사의 일정관리
+- 교사의 개인 문서 저장 및 다운
 
 ## 팀원 소개
 
 | 이름 | 포지션 | Contact |
 | --- | --- | --- |
-| 최지원 | AI | a1@gmail.com |
-| 최지투 | BE | a1@gmail.com |
-| 최지삼 | FE | a1@gmail.com |
-| 최지사 | FE | a1@gmail.com |
-| 최지오 | FE | a1@gmail.com |
+| 정형일 | 팀장 | aadsf1789@gmail.com |
+| 김승기 | DB관리 | tropicana1235@gmail.comm |
+| 양동민 | 일정관리 | didehdals321@naver.com |
+| 박지민 | 형상관 | jimin0817@naver.com |
+| 정의철 | 이슈관리 | euicheol99@gmail.com |
