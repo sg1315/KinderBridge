@@ -20,8 +20,6 @@ React와 Spring Boot를 활용한 유치원 ERP 시스템입니다.
 <img src="https://img.shields.io/badge/React Spinners-FF6D00?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
 
-
-
 `Back-end`
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring-Security&logoColor=white"/>
@@ -33,18 +31,27 @@ React와 Spring Boot를 활용한 유치원 ERP 시스템입니다.
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON-Web-Tokens&logoColor=white"/>
 
-
-
 `Communication`
-<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 
 ## 사용 라이브러리및 API
--
--
--
--
--
+- React
+- Zustand
+- Styled-components
+- React Hook Form
+- Axios
+- React Calendar / Datepicker / Time Picker
+- React Toastify
+- React Spinners
+- Vite
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Spring WebSocket
+- Gradle
+- JWT (JSON Web Token)
+- AWS S3
+- MySQL
 
 ## 설치 및 실행 방법
 ```bash
