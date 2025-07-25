@@ -9,7 +9,8 @@ React와 Spring Boot를 활용한 유치원 ERP 시스템입니다.
   - [프론트엔드 README](./front/README.md)
 
 ## 기술 스택
-`Front-End` 
+
+`Front-End`  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Zustand-8B5CF6?style=flat-square&logo=Zustand&logoColor=white"/>
 <img src="https://img.shields.io/badge/Styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
@@ -20,7 +21,7 @@ React와 Spring Boot를 활용한 유치원 ERP 시스템입니다.
 <img src="https://img.shields.io/badge/React Spinners-FF6D00?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
 
-`Back-end`
+`Back-end`  
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring-Security&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Data JPA-007396?style=flat-square&logo=Hibernate&logoColor=white"/>
@@ -31,7 +32,7 @@ React와 Spring Boot를 활용한 유치원 ERP 시스템입니다.
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON-Web-Tokens&logoColor=white"/>
 
-`Communication`
+`Communication`  
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 
 ## 사용 라이브러리및 API
