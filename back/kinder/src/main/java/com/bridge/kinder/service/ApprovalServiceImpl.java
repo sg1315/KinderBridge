@@ -87,12 +87,14 @@ public class ApprovalServiceImpl implements ApprovalService {
         Center center = centerRepository.findById(member.getCenter().getCenterNo())
                 .orElseThrow(() -> new RuntimeException("존재하지 않는 시설입니다."));
 
-        Resign resign = Resign.builder()
-                .center(center)
-                .member(member)
-                .build();
+        if(dto.getStatus() == CommonEnums.AdmissionStatus.APPROVED) {
+            Resign resign = Resign.builder()
+                    .center(center)
+                    .member(member)
+                    .build();
 
-        resignRepository.save(resign);
+            resignRepository.save(resign);
+        }
 
         approval.changeApprovalStatus(dto.getStatus());
         member.changeMemberStatus(dto.getStatus());
