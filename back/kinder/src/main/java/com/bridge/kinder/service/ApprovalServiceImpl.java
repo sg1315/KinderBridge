@@ -79,7 +79,7 @@ public class ApprovalServiceImpl implements ApprovalService {
     @Override
     public String updateMemberApprovals(ApprovalDto.MemberApprovalUpdate dto) {
         Approval approval = approvalRepository.findByApprovalNo(dto.getApproval_no())
-                .orElseThrow(() -> new RuntimeException("존재하지 않는 승인 청입니다."));
+                .orElseThrow(() -> new RuntimeException("존재하지 않는 승인요청입니다."));
 
         Member member = memberRepository.findByParentNo(dto.getMember_no())
                 .orElseThrow(() -> new RuntimeException("존재하지 않는 멤버입니다."));
